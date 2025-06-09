@@ -39,9 +39,7 @@
 </head>
 <body>
   <header>
-    <h1>딥페이크의 위험성 알리기
-          제작:30325 이원태
-    </h1>
+    <h1>딥페이크의 위험성 알리기(30325 이원태)</h1>
     <p>인공지능 기술의 그림자, 우리는 무엇을 조심해야 할까요?</p>
   </header>
   <main>
@@ -52,9 +50,9 @@
     <section>
       <h2>딥페이크의 위험성</h2>
       <ul>
-        <li>가짜 뉴스나 허위 정보 유포</li>
+        <li>청소년 대상 음란물 피해 상승</li>
         <li>유명인사나 일반인의 명예 훼손</li>
-        <li>청소년 대상 음란물 유포 확대</li>
+        <li>사기 및 범죄에 악용 가능</li>
         <li>사회적 혼란과 신뢰 붕괴 초래</li>
       </ul>
     </section>
@@ -66,6 +64,14 @@
         <li>관련 법과 제도 개선에 관심 갖기</li>
         <li>AI와 미디어 리터러시 교육 강화</li>
       </ul>
+    </section>
+    <section>
+      <h2>관련 피해 기사</h2>
+      <p>
+        <a href="https://m.ktv.go.kr/program/again/view?content_id=711097" target="_blank">
+          딥페이크 범죄, 텔레그램에서 유포…정부 대응은? (KTV 국민방송)
+        </a>
+      </p>
     </section>
   </main>
   <footer>
