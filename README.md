@@ -3,9 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>딥페이크의 위험성
-    제작:30325 이원태
-  </title>
+  <title>딥페이크의 위험성</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -41,7 +39,9 @@
 </head>
 <body>
   <header>
-    <h1>딥페이크의 위험성 알리기</h1>
+    <h1>딥페이크의 위험성 알리기
+          제작:30325 이원태
+    </h1>
     <p>인공지능 기술의 그림자, 우리는 무엇을 조심해야 할까요?</p>
   </header>
   <main>
